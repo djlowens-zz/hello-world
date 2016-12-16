@@ -1,3 +1,1 @@
-# hello-world
-Test repository 
-i
+This is where I keep my Python scripts.
